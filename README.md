@@ -12,6 +12,6 @@ I created this project so I could create a sleep timer for when I use spotify to
 - Open up terminal
 - Run code below
 
-"""
+'''
 python sleeptimer.py
-"""
+'''
