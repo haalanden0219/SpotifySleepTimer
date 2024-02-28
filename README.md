@@ -9,12 +9,16 @@ I created this project so I could create a sleep timer for when I use Spotify to
 ### Dependencies
 - Windows 10 OS
 - Python Installed
+- Time Python Library
+- Psutils Python Library
 
 ### Executing Program
 - Open up terminal
 - Run code below
    
  ```python sleeptimer.py```
+
+ - You will be asked to enter how many minutes you want before the program closes. Enter the amount and you are good to go.
 
 > **Note:** The **sleeptimer.exe** can only be ran on Windows OS. This is due to using PyInstaller only being able to create executable for the system in which it was bundled on.
 
@@ -26,4 +30,4 @@ I created this project so I could create a sleep timer for when I use Spotify to
 - Packaging to work with other OS (may require separate script).
 
 ## Authors
-- Evan Haaland 
+[Evan Haaland](https://www.linkedin.com/in/evannhaaland/) </br>
